@@ -1,0 +1,33 @@
+{
+    "name": "csv-combiner",
+    "description": "Combines any number of CSV files with or without headers",
+    "version": "0.0.1",
+    "main": "csv-combiner-src.js",
+    "bin": {
+        "csv-combiner": "./csv-combiner.js"
+    },
+    "dependencies": {
+        "check-more-types": "1.8.2",
+        "fast-csv": "^4.3.6"
+    },
+    "scripts": {
+        "file-example": "node csv-combiner.js file-example.csv test/1.csv test/2.csv",
+        "folder-example": "node csv-combiner.js folder-example.csv test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://mygithub.gsk.com/nd100573/csv-combiner.git"
+    },
+    "keywords": [
+        "csv",
+        "combination",
+        "merge",
+        "cli"
+    ],
+    "author": "Nikolai Oakfield <nikolai.i.oakfield@gsk.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://mygithub.gsk.com/nd100573/csv-combiner/issues"
+    },
+    "homepage": "https://mygithub.gsk.com/nd100573/csv-combiner"
+}
