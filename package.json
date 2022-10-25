@@ -16,7 +16,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://mygithub.gsk.com/nd100573/csv-combiner.git"
+        "url": "https://github.com/nikolaioak/csv-combiner.git"
     },
     "keywords": [
         "csv",
@@ -24,10 +24,10 @@
         "merge",
         "cli"
     ],
-    "author": "Nikolai Oakfield <nikolai.i.oakfield@gsk.com>",
+    "author": "Nikolai Oakfield <nikolaioakfield@pm.me>",
     "license": "MIT",
     "bugs": {
-        "url": "https://mygithub.gsk.com/nd100573/csv-combiner/issues"
+        "url": "https://https://github.com/nikolaioak/csv-combiner/issues"
     },
-    "homepage": "https://mygithub.gsk.com/nd100573/csv-combiner"
+    "homepage": "https://https://github.com/nikolaioak/csv-combiner"
 }
